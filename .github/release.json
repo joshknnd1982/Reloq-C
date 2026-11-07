@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "release_version": "1.2.0",
-  "source_commit": "60423895867ba181183d017958b8d08294633cbc",
-  "run_id": 42396800352,
+  "version": "1.2.1",
+  "release_version": "1.2.1",
+  "source_commit": "ac08c5587273995709ee72feefc00024f33450e0",
+  "run_id": 42409609086,
   "dictionary_snapshot": {
     "repository": "eigencrow/IBMTTSDictionaries",
     "branch": "master",
@@ -39,17 +39,17 @@
     }
   },
   "assets": {
-    "reloq-c-android-arm64-1.2.0.apk": {
+    "reloq-c-android-arm64-1.2.1.apk": {
       "size": 17397358,
-      "sha256": "066b297f73d4a49bee3dbf08b5a97f99bf279d8b04e86a00e258f79f83a70ada"
+      "sha256": "97f964110a369c1c197a01a9379aeecf642169eb63f8bda31c59015c566c18f5"
     },
-    "reloq-c-synth-x64-1.2.0.nvda-addon": {
-      "size": 19638128,
-      "sha256": "e7c86d0dc0256897336d4bb8fc879b50375fb7c015c45325230d828f46d8a643"
+    "reloq-c-synth-x64-1.2.1.nvda-addon": {
+      "size": 19639312,
+      "sha256": "e92839415a13971940d413b4318ea75daa3871fb2b79b82507ac8f89b1fce04b"
     },
-    "reloq-c-sapi5-1.2.0-setup.exe": {
-      "size": 19440438,
-      "sha256": "560ea7a9ff51dd5428ba53b3a19e6d12aaf79d09131bb3bd21753e4808c657f3"
+    "reloq-c-sapi5-1.2.1-setup.exe": {
+      "size": 19442609,
+      "sha256": "781099c287b41a5822741e83076c71fbbef7bdaa49681af4c12c2fcaa5412f63"
     }
   }
 }
